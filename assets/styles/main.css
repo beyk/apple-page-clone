@@ -1,0 +1,84 @@
+body {
+    
+    overflow-x: hidden;
+}
+
+main {
+    
+     text-align: left; 
+     margin: 0 auto;
+}
+
+.page-top {
+    height: 530px;
+    background-image: url(../images/your_verse_hero.jpg);
+    background-repeat: no-repeat;
+    background-position: 0 100%;
+    padding-top: 70px;
+    display: flex;
+    flex-direction: column;
+    flex-basis: 100%;
+}
+
+.page-top nav ul{
+    max-width: 900px;
+    height: 40px;
+    margin: 0 auto;
+    border: 1px solid #707070;
+    background-image: linear-gradient(#777 0%, #777 50%, #666 50%, #666 60%, #777 100%);
+    display: flex;
+    align-items: center;
+    list-style-type: none;
+    align-content: space-between;
+    border-radius: 5px;
+}
+
+.page-top nav ul li:last-child{
+    border: 0;
+    
+}
+
+.page-top nav ul li{
+    flex: 1;
+    text-align: center;
+    justify-content: center;
+    border-right: 1px solid #707070;
+}
+
+.page-top ul a{
+    text-decoration: none;
+    color: white; 
+}
+.page-top ul li input{
+    border-radius: 12px;
+    margin-top: 17px;
+    padding-right: 10px;
+    padding-left: 25px;
+    background: 0 0;
+    border: 1px solid #888;
+    transition: width 0.3s ease-in-out;
+    width: 150px;
+ 
+}
+
+.page-top ul li input:focus{
+    background: #fff;
+  background: linear-gradient(#fff, #fff);
+  width: 200px;
+  outline: none;
+  border-radius: 12px;
+  border: 1px solid transparent;
+}
+
+.icon-inside-input{
+    float: left;
+    position: relative;
+    bottom: 15px;
+    padding-left: 10px;
+    color: white;
+    font-size: 12px;
+}
+
+.titles-under-nav{
+    text-align: center;
+}
