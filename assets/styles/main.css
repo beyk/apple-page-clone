@@ -98,7 +98,9 @@ aside ul li a img{
     width: 350px ;
     height: 200px ;
 }
-
+footer{
+    padding-top: 20px;
+}
 footer div{
     display: flex;
     align-content: space-between;
@@ -106,6 +108,9 @@ footer div{
     margin-right: 10%;
     font-size: small;
     
+}
+footer div p{
+    padding-right: 20px;
 }
 footer ul{
     display: flex;
