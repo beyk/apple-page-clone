@@ -82,3 +82,19 @@ main {
 .titles-under-nav{
     text-align: center;
 }
+
+aside{
+    margin-left: 0px;
+}
+
+aside ul{
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+aside ul li a img{
+    width: 350px ;
+    height: 200px ;
+}
