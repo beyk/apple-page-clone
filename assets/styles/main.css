@@ -98,3 +98,20 @@ aside ul li a img{
     width: 350px ;
     height: 200px ;
 }
+
+footer div{
+    display: flex;
+    align-content: space-between;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-size: small;
+    
+}
+footer ul{
+    display: flex;
+    list-style: none;
+    padding-right: 5px;
+}
+footer ul li{
+    padding-right: 5px;
+}
