@@ -13,7 +13,7 @@ This Project consists of making a clone of [Apple page](https://web.archive.org/
 
 ## Live Demo
 
-[Go Live Demo](https://rawcdn.githack.com/beyk/apple-page-clone/6027ed78fd5b694ee8d349d3c986c208ba2768fe/index.html)
+[Go Live Demo](https://rawcdn.githack.com/beyk/apple-page-clone/e4586537a1391b03160dfb57a883d390ef3cd434/index.html)
 ### Setup
 > Just clone the project into you directory.
 
