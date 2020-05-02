@@ -10,6 +10,7 @@ main {
 .page-top {
   height: 530px;
   background-image: url(../images/your_verse_hero.jpg);
+  background-size: cover;
   background-repeat: no-repeat;
   background-position: 0 100%;
   padding-top: 70px;
@@ -102,7 +103,7 @@ aside {
 }
 
 aside ul li a img {
-  width: 360px;
+  width: 380px;
   height: 200px;
 }
 
