@@ -1,10 +1,11 @@
 
-# apple-clon-page
+# apple-clone-page
 This Project consists of making a clone of [Apple page](https://web.archive.org/web/20140301004610/http://www.apple.com/).
 -Set up the main background image.
 -Set up the top navigation bar. 
 -using gradient background
 -...
+It was perfect practice for learning background option and working with gradient. I am sure that this will help me in next projects, so offer you review and try it.
 ![screenshot](./assets/images/apple-page-screenshot.png)
 ## Built With
 
