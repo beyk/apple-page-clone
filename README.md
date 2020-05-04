@@ -14,7 +14,7 @@ It was perfect practice for learning background option and working with gradient
 
 ## Live Demo
 
-[Go Live Demo](https://rawcdn.githack.com/beyk/apple-page-clone/e4586537a1391b03160dfb57a883d390ef3cd434/index.html)
+[Go Live Demo](https://rawcdn.githack.com/beyk/apple-page-clone/26b969b67fca319e09932df0641cd85cc88678f5/index.html)
 ### Setup
 > Just clone the project into you directory.
 
