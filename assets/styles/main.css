@@ -7,6 +7,14 @@ main {
   margin: 0 auto;
 }
 
+a {
+  text-decoration: none;
+}
+
+a:hover{
+  text-decoration: underline;
+}
+
 .page-top {
   height: 530px;
   background-image: url(../images/your_verse_hero.jpg);
