@@ -15,6 +15,19 @@ a:hover {
   text-decoration: underline;
 }
 
+.flex-v {
+  flex-direction: column;
+}
+
+.flex-h .flex-v {
+  display: flex;
+}
+
+.flex-h {
+  display: flex;
+  flex-direction: row;
+}
+
 .page-top {
   height: 530px;
   background-image: url(../images/your_verse_hero.jpg);
@@ -22,16 +35,48 @@ a:hover {
   background-repeat: no-repeat;
   background-position: 0 100%;
   padding-top: 70px;
-  display: flex;
-  flex-direction: column;
   flex-basis: 100%;
 }
 
-aside ul {
-  display: flex;
+.promos {
   list-style: none;
   margin: 0;
   padding: 0;
+  width: 100%;
+}
+
+.promos a {
+  width: 25%;
+}
+
+footer div {
+  display: flex;
+  align-content: space-between;
+  margin-left: 10%;
+  margin-right: 10%;
+  font-size: small;
+}
+
+.promos a div {
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 200px;
+}
+
+.promos-img1 {
+  background-image: url(../images/promo_iphone5s.jpg);
+}
+
+.promos-img2 {
+  background-image: url(../images/promo_iphone5c.jpg);
+}
+
+.promos-img3 {
+  background-image: url(../images/promo_30_years.jpg);
+}
+
+.promos-img4 {
+  background-image: url(../images/promo_supplier_responsibility.jpg);
 }
 
 footer ul {
@@ -118,14 +163,6 @@ aside ul li a img {
 footer {
   padding-top: 20px;
   padding-bottom: 20px;
-}
-
-footer div {
-  display: flex;
-  align-content: space-between;
-  margin-left: 10%;
-  margin-right: 10%;
-  font-size: small;
 }
 
 footer div p {
