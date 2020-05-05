@@ -15,12 +15,13 @@ a:hover {
   text-decoration: underline;
 }
 
+.flex-h,
 .flex-v {
-  flex-direction: column;
+  display: flex;
 }
 
-.flex-h .flex-v {
-  display: flex;
+.flex-v {
+  flex-direction: column;
 }
 
 .flex-h {
