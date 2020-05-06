@@ -1,0 +1,24 @@
+{
+  "name": "apple-page-clone",
+  "version": "1.0.0",
+  "description": "This Project consists of making a clone of [Apple page](https://web.archive.org/web/20140301004610/http://www.apple.com/).\r -Set up the main background image.\r -Set up the top navigation bar. \r -using gradient background\r -...\r ![screenshot](./assets/images/apple-page-screenshot.png)\r ## Built With",
+  "main": "stylelint.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beyk/apple-page-clone.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/beyk/apple-page-clone/issues"
+  },
+  "homepage": "https://github.com/beyk/apple-page-clone#readme",
+  "devDependencies": {
+    "stylelint": "^13.3.3",
+    "stylelint-config-recommended": "^3.0.0"
+  }
+}
